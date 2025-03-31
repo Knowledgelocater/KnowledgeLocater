@@ -28,7 +28,7 @@
 ## 🌟 **Projects**  
 🚀 [**NotesHub**](https://github.com/your-repo) – A platform for accessing notes for different streams  
 🔐 [**FinTech Security**](https://github.com/your-repo) – Secure Wallet System with advanced authentication  
-📊 [**AI-Based Business Insights**]([https://github.com/your-repo](https://github.com/Knowledgelocater/analytics-backend)) – Automated Data Analysis & Forecasting  
+📊 [**AI-Based Business Insights**](https://github.com/Knowledgelocater/analytics-backend) – Automated Data Analysis & Forecasting  
 
 ---
 
