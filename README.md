@@ -44,6 +44,6 @@
 ---
 
 ## 📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kinshukshukla)]([https://linkedin.com/in/kinshukshukla](https://www.linkedin.com/in/kinshuk-shukla-865aa3289/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kinshuk-shukla-865aa3289/)](https://www.linkedin.com/in/kinshuk-shukla-865aa3289/)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:kinshukshukla@gmail.com)](mailto:kinshukshukla@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/kinshukshukla)](https://github.com/kinshukshukla)  
